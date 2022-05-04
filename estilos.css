@@ -132,7 +132,7 @@ main > section
 }
 .perfil__imagen-contenedor img {
   width: 100%;
-  height: max-content;
+  height: auto;
 }
 .perfil__descripcion {
   font-size: .9rem;
